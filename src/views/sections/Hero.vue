@@ -20,7 +20,7 @@
             <base-subheading
             size="text-h5"
             weight="regular"
-            title="Óculos de sol e de grau para todos os estilos!"/>
+            title="Há 30 anos com a saúde dos seus olhos em primeiro lugar!"/>
             <base-body >
               <p class="text-white">Sabemos da importância da saúde dos olhos e o quanto nossos clientes são especiais para nós. Por isso temos tanto cuidado e carinho com nossos produtos, para que realmente satisfaça nosso público.</p>
               <p class="text-white">Trazemos sempre o que há de mais moderno na confeccão de nossos óculos, muitas opções com as melhores marcas do mercado. Aqui você vai encontrar desde o conforto de uma lente com alta tecnologia e também uma armação que te traga beleza e elegância.</p> 

@@ -1,8 +1,9 @@
 <template>
   <base-section id="theme-features">
    <base-section-heading id="sobrenos" title="Sobre nós">
-    Abertos desde 2011, com o compromisso de proporcionar uma experiência exclusiva para cada cliente. O nosso objetivo é que nossos clientes saiam sempre satisfeitos e surpreendidos.<br/>
-    Nossa equipe é uma família, que trabalha com muita dedicação e carinho, sempre buscando o que há de melhor no mercado.<br/><br/>
+    Abertos desde 1991, com o compromisso de proporcionar uma experiência exclusiva para cada cliente. O nosso objetivo é que nossos clientes saiam sempre satisfeitos e surpreendidos.<br/>
+    Nossa equipe é uma família, que trabalha com muita dedicação e carinho, sempre buscando o que há de melhor no mercado.<br/>
+    Óculos de sol e de grau para todos os estilos!" <br/><br/>
   
       <v-img 
           
